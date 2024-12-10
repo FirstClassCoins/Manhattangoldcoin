@@ -1,0 +1,2 @@
+# Manhattangoldcoin
+Manhattangoldcoin Core
